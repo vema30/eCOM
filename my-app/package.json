@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A React application with Redux and routing",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vema Reddy",
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
@@ -35,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
